@@ -1,22 +1,17 @@
-<br>
-
 <p align="center">
   <img src="https://github.com/resystem/.github/blob/master/assets/brand/full-logo.png" width="250" alt="Re/System">
 </p>
 
-<p>
-<strong>Re/System</strong> is a critical and independent collective that works for evolution and adaptations, which is against the oppression of social classes and is in favor of freedom, since evolution comes from change and collaboration.
-</p>
+<br>
+
+[Re/System](https://resytem.org) is a critical and independent collective that works for evolution and adaptations, which is against the oppression of social classes and is in favor of freedom, since evolution comes from change and collaboration.
 
 ---
 
-<p>
-This repository contains a collection of documents and related materials to support programming, style, pratices, methods, maintenace and contrubuitions to the projects in general and specif languages/frameworks.
-</p>
+This repository contains a collection of documents and related materials to support programming, style, pratices, methods, maintenace and contrubuitions to the projects in general and specific languages/frameworks.
 
-<p>
 Contributions welcome. Please read the contribution guidelines before contributing. Add links through pull requests or create an issue to start a discussion.
-</p>
+
 
 ### Guidelines:
 
