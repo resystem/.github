@@ -3,5 +3,5 @@
 </p>
 
 <p>
-Re / System is a critical and independent collective that works for evolution and adaptations, which is against the oppression of social classes and is in favor of freedom, since evolution comes from change and collaboration.
+Re/System is a critical and independent collective that works for evolution and adaptations, which is against the oppression of social classes and is in favor of freedom, since evolution comes from change and collaboration.
 </p>
