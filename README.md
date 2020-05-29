@@ -10,17 +10,36 @@
 
 ---
 
-### Indice
+<p>
+This repository contains a collection of documents and related materials to support programming, style, pratices, methods, maintenace and contrubuitions to the projects in general and specif languages/frameworks.
+</p>
 
-1. [Translations](#translations)
-1. [Guidelines](#guidelines)
+<p>
+Contributions welcome. Please read the contribution guidelines before contributing. Add links through pull requests or create an issue to start a discussion.
+</p>
 
-### Translations
+### Guidelines:
 
-1. [PT/BR](https://github.com/resystem/.github/README.pt.md)
-1. [EN/US](https://github.com/resystem/.github)
-
-### Guidelines
-
-1. [Repository setup](https://github.com/resystem/.github/guidelines/REPOSITORY_SETUP.mb)
-1. [Repository Maintenance](https://github.com/resystem/.github/guidelines/REPOSITORY_MAINTENANCE.md)
+- [Repository setup](https://github.com/resystem/.github/guidelines/REPOSITORY_SETUP.mb)
+- [Repository maintenance](https://github.com/resystem/.github/guidelines/REPOSITORY_MAINTENANCE.md)
+- [Git]()
+  - [Git workflow](https://github.com/resystem/.github/guidelines/GIT-WORKFLOW.md)
+  - [Writing commits](https://github.com/resystem/.github/guidelines/GIT-COMMITS.md)
+- [Documentation](https://github.com/resystem/.github/guidelines/DOCUMENTATION.md)
+- [Denpendecies](https://github.com/resystem/.github/guidelines/DEPENDENCIES.md)
+- [Testing](https://github.com/resystem/.github/guidelines/TESTING.mf)
+- [JavaScript]()
+    - [Documentation]()
+    - [Code style]()
+    - [Testing]()
+    - [GraphQL]()
+    - [API Design]()
+    - [API Security]()
+    - [API Documantation]()
+- [React/JSX]()
+  - [Documentation]()
+  - [Code style]()
+  - [Testing]()
+  - [Server Side Render]()
+  - [GraphQL]()
+- [Licensing]()
