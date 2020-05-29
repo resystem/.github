@@ -10,17 +10,17 @@
 
 ---
 
-## Indice
+### Indice
 
 1. [Translations](#translations)
 1. [Guidelines](#guidelines)
 
-## Translations
+### Translations
 
 1. [PT/BR](https://github.com/resystem/.github/README.pt.md)
 1. [EN/US](https://github.com/resystem/.github)
 
-## Guidelines
+### Guidelines
 
 1. [Repository setup](https://github.com/resystem/.github/guidelines/REPOSITORY_SETUP.mb)
 1. [Repository Maintenance](https://github.com/resystem/.github/guidelines/REPOSITORY_MAINTENANCE.md)
